@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://titinere.github.io/sitemap.html.gz
+Sitemap: https://titinere.github.io/app/sitemap.html.gz
+Sitemap: https://titinere.github.io/assets/sitemap.html.gz
+Sitemap: https://titinere.github.io/css/sitemap.html.gz
+Sitemap: https://titinere.github.io/includes/sitemap.html.gz
+Sitemap: https://titinere.github.io/item/sitemap.html.gz
+Sitemap: https://titinere.github.io/src/sitemap.html.gz
